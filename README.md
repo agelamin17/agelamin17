@@ -47,4 +47,4 @@ I am a **Geomatics expert** specializing in the bridge between advanced engineer
 * 📍 Toronto, Ontario, Canada
 
 ---
-*"Translating high-fidelity sensor technology into scalable solutions for spatial monitoring."*
+*"From Sensors to Spatial Intelligence."*
